@@ -31,7 +31,7 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
    git clone git@github.com:dat520-2022/username-labs assignments
    cd assignments
    git remote add course-assignments git@github.com:dat520-2022/assignments
-   git pull course-assignments master
+   git pull course-assignments main
    ```
 
    Alternative 2:
@@ -43,7 +43,7 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
    git clone https://github.com/dat520-2022/username-labs assignments
    cd assignments
    git remote add course-assignments https://github.com/dat520-2022/assignments
-   git pull course-assignments master
+   git pull course-assignments main
    ```
 
 3. You may be asked for username and password above.
@@ -88,10 +88,10 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
 
 8. When you have pushed a change to GitHub, QuickFeed's built-in Continuous Integration system will pick up your code and run a set of tests against your code.
 
-   Note that QuickFeed will only run tests against your master branch.
+   Note that QuickFeed will only run tests against your main branch.
    If you do not want QuickFeed to test your code, you can create a separate branch,
    e.g. `featureX`, and work on that branch until you are finished. When you are ready
-   to submit, simply merge the `featureX` branch into master and commit and push.
+   to submit, simply merge the `featureX` branch into main and commit and push.
    QuickFeed will then pick up your code and run our tests on your code.
 
 9. You can check the output by going to the [QuickFeed web interface](http://uis.itest.run/).
@@ -144,7 +144,7 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
    our course assignments repo into your working copy, with the following command:
 
    ```console
-   git pull course-assignments master
+   git pull course-assignments main
    ```
 
 2. If there are conflicting changes, you will need to edit the files with conflicts.
@@ -189,7 +189,7 @@ cd $HOME/dat520-2022
 git clone git@github.com:dat520-2022/groupname.git
 cd groupname
 git remote add course-assignments git@github.com:dat520-2022/assignments
-git pull course-assignments master
+git pull course-assignments main
 ```
 
 All group members will have write access to the `groupname` repository, and it is this repository that your solutions should be pushed to.
@@ -198,7 +198,7 @@ QuickFeed will run our tests against your `groupname` repository.
 Remember that you should run:
 
 ```console
-git pull course-assignments master
+git pull course-assignments main
 ```
 
 Every once in a while, to check if we have posted updates to the assignments, including new assignments.
