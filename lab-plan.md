@@ -2,7 +2,7 @@
 
 | Lab | Topic                                                     | Grading          | Approval             | Submission              | Deadline          |
 |:---:|-----------------------------------------------------------|------------------|----------------------|-------------------------|-------------------|
-| 1 | [Getting Started][1] | Pass/fail | Automatic | Individually | January 24 |
+| 1 | [Getting Started][1] | Pass/fail | Automatic | Individually | January 31 |
 | 2 | [Network Programming in Go][2] | Pass/fail | TA Approval | Individually | February 11 |
 | 3 | [Failure Detector and Leader Election][3] | Graded | TA Approval | Group | February 25 |
 | 4 | [Single-decree Paxos and Multi-Paxos][4] | Graded | TA Approval | Group | March 21 |
