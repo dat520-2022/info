@@ -14,11 +14,11 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 | 2   | -     | Recorded |               | [Golang Tutorial][3]                     |               |
 | 3   | -     | Recorded | 2.4, 2.5      | [Basic Abstractions][4]                  |               |
 | 3   | -     | Recorded | 2.6, 2.7      | [Basic Abstractions][5]                  |               |
-| 3   | 21.01 | Live     |               | Summary of chapter 1 & 2                 | Lab 1 (24.01) |
+| 3   | 28.01 | Live     |               | Summary of chapter 1 & 2                 | Lab 1 (24.01) |
 | 4   | -     | Recorded | 3             | [Reliable Broadcast][6]                  |               |
 | 4   | -     | Recorded |               | [gRPC Tutorial][7]                       |               |
 | 4   | -     | Recorded | 3             | [Reliable Broadcast][8]                  |               |
-| 5   | 04.02 | Live     |               | Summary of chapter 3 & gRPC              | Lab 2 (11.02) |
+| 5   | 11.02 | Live     |               | Summary of chapter 3 & gRPC              | Lab 2 (11.02) |
 | 5   | -     | Recorded |               | [Paxos][9]                               |               |
 | 6   | -     | Recorded | 5             | [Consensus][10]                          |               |
 | 7   | 18.02 | Live     |               | Summary of chapter 5 & Paxos             | Lab 3 (25.02) |
