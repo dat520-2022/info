@@ -21,7 +21,7 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 | 5   | 11.02 | Live     |               | Summary of chapter 3 & gRPC              | Lab 2 (11.02) |
 | 5   | -     | Recorded |               | [Paxos][9]                               |               |
 | 6   | -     | Recorded | 5             | [Consensus][10]                          |               |
-| 7   | 18.02 | Live     |               | Summary of chapter 5 & Paxos             | Lab 3 (25.02) |
+| 7   | 25.02 | Live     |               | Summary of chapter 5 & Paxos             | Lab 3 (25.02) |
 | 7   | -     | Recorded |               | [Lab 4 Introduction][11]                 |               |
 | 8   | -     | Recorded | 6             | [Consensus Variants][12]                 |               |
 | 8   | -     | Recorded | 4             | [Consensus Variants][13]                 |               |
