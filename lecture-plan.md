@@ -28,6 +28,7 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 | 8   | -     | Recorded | 4             | [Consensus Variants & Shared Memory][14] |               |
 | 9   | 04.03 | Live     |               | Summary of chapter 4 & 6                 |               |
 | 9   | -     | Recorded |               | [Consistent Global States][15]           |               |
+| 10  | 11.03 | Live     |               | Guest lecture by Hanish Gogada           |               |
 | 10  | -     | Recorded |               | [Kademlia][17] [Resources][16]           |               |
 | 11  | 18.03 | Live     |               | Summary of Kademlia & Lab 5 intro        | Lab 4 (21.03) |
 | 12  | -     | Recorded |               | [Lab 5 Introduction][18]                 |               |
