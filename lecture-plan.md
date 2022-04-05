@@ -32,10 +32,11 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 | 10  | -     | Recorded |               | [Kademlia][17] [Resources][16]           |               |
 | 11  | 18.03 | Live     |               | Consistent Global States review          | Lab 4 (21.03) |
 | 12  | -     | Recorded |               | [Lab 5 Introduction][18]                 |               |
-| 13  | 01.04 | Live     |               | Summary of Kademlia & Lab 5              | Lab 4 (21.03) |
+| 13  | 01.04 | Live     |               | Summary of Kademlia & Lab 5 intro        | Lab 4 (21.03) |
 | 13  | -     | Recorded |               | [Blockchain & Bitcoin][19]               |               |
-| 14  | 08.04 | Live     |               | Summary of Blockchain & Lab 6 intro      | Lab 5 (11.04) |
-| 16  | 22.04 | Live     |               | Last lecure before the lab exam          | Lab 6 (02.05) |
+| 13  | 08.04 | Live     |               | Tutorial on Gorums, gRPC & Lab 6 intro   | Lab 5 (11.04) |
+| 14  | 20.04 | Live     |               | Summary of Blockchain & Bitcoin          |               |
+| 16  | 29.04 | Live     |               | Last lecure before the lab exam          | Lab 6 (02.05) |
 | 20  | 20.05 | Live     |               | Last lecture before the written exam     |               |
 
 [1]: https://www.youtube.com/watch?v=pKFfy_T5e94
