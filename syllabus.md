@@ -1,5 +1,10 @@
 # Syllabus
 
+## Lectures
+All lectures are syllabus.
+
+Recorded lectures: https://www.youtube.com/watch?v=pKFfy_T5e94&list=PLbFbN_bRUfk2dNaP_yU5VLNfZa5QzkOSu
+
 ## Lab assignments
 All lab assignments are syllabus.
 
@@ -15,7 +20,6 @@ Available online: https://link.springer.com/book/10.1007/978-3-642-15260-3
 - Consistent Global States, Keith Marzullo and Ozalp Babaoglu
 
 Available on Canvas.
-
 
 
 ## Paxos algorithm
@@ -40,7 +44,12 @@ Based on the XOR Metric, Petar Maymounkov and David Mazieres. Available: https:/
 - R/Kademlia: Recursive and Topology-aware Overlay Routing, Bernhard Heep. Available: http://telematics.tm.kit.edu/publications/Files/416/RKademlia_2010.pdf
 
 ## CAP Theorem
-https://en.wikipedia.org/wiki/CAP_theorem
+- https://en.wikipedia.org/wiki/CAP_theorem
 
 ## Byzantine Generals Problem
-https://en.wikipedia.org/wiki/Byzantine_fault
+- https://en.wikipedia.org/wiki/Byzantine_fault
+
+## Bitcoin and Blockchain
+- Bitcoin and Blockchains, Hein Meling
+
+Available on Canvas.
