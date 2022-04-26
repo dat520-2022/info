@@ -6,38 +6,39 @@ You are expected to watch the recorded lectures before attending the live lectur
 Each video recorded is linked below.
 You may also be interested in this [YouTube playlist](https://www.youtube.com/watch?v=pKFfy_T5e94&list=PLbFbN_bRUfk2dNaP_yU5VLNfZa5QzkOSu&ab_channel=RacinNygaard).
 
-| W   | Date  | Type     | Chapters      | Topics                                   | Deadline      |
-| --- | ----- | -------- | ------------- | ---------------------------------------- | ------------- |
-| 1   | 07.01 | Live     |               | Brief introduction to the course         |               |
-| 1   | -     | Recorded | 1             | [Course info and Introduction][1]        |               |
-| 2   | -     | Recorded | 2.1, 2.2, 2.3 | [Basic Abstractions][2]                  |               |
-| 2   | -     | Recorded |               | [Golang Tutorial][3]                     |               |
-| 3   | -     | Recorded | 2.4, 2.5      | [Basic Abstractions][4]                  |               |
-| 3   | -     | Recorded | 2.6, 2.7      | [Basic Abstractions][5]                  |               |
-| 3   | 28.01 | Live     |               | Summary of chapter 1 & 2                 | Lab 1 (24.01) |
-| 4   | -     | Recorded | 3             | [Reliable Broadcast][6]                  |               |
-| 4   | -     | Recorded |               | [gRPC Tutorial][7]                       |               |
-| 4   | -     | Recorded | 3             | [Reliable Broadcast][8]                  |               |
-| 5   | 11.02 | Live     |               | Summary of chapter 3 & gRPC              | Lab 2 (11.02) |
-| 5   | -     | Recorded |               | [Paxos][9]                               |               |
-| 6   | -     | Recorded | 5             | [Consensus][10]                          |               |
-| 7   | 25.02 | Live     |               | Summary of chapter 5 & Paxos             | Lab 3 (25.02) |
-| 7   | -     | Recorded |               | [Lab 4 Introduction][11]                 |               |
-| 8   | -     | Recorded | 6             | [Consensus Variants][12]                 |               |
-| 8   | -     | Recorded | 4             | [Consensus Variants][13]                 |               |
-| 8   | -     | Recorded | 4             | [Consensus Variants & Shared Memory][14] |               |
-| 9   | 04.03 | Live     |               | Summary of chapter 4 & 6                 |               |
-| 9   | -     | Recorded |               | [Consistent Global States][15]           |               |
-| 10  | 11.03 | Live     |               | Guest lecture by Hanish Gogada           |               |
-| 10  | -     | Recorded |               | [Kademlia][17] [Resources][16]           |               |
-| 11  | 18.03 | Live     |               | Consistent Global States review          | Lab 4 (21.03) |
-| 12  | -     | Recorded |               | [Lab 5 Introduction][18]                 |               |
-| 13  | 01.04 | Live     |               | Summary of Kademlia & Lab 5 intro        | Lab 4 (21.03) |
-| 13  | -     | Recorded |               | [Blockchain & Bitcoin][19]               |               |
-| 13  | 08.04 | Live     |               | Tutorial on Gorums, gRPC & Lab 6 intro   | Lab 5 (11.04) |
-| 14  | 20.04 | Live     |               | Summary of Blockchain & Bitcoin          |               |
-| 16  | 29.04 | Live     |               | Last lecure before the lab exam          | Lab 6 (02.05) |
-| 20  | 20.05 | Live     |               | Last lecture before the written exam     |               |
+| W   | Date  | Type     | Chapters      | Topics                                     | Deadline      |
+| --- | ----- | -------- | ------------- | ------------------------------------------ | ------------- |
+| 1   | 07.01 | Live     |               | Brief introduction to the course           |               |
+| 1   | -     | Recorded | 1             | [Course info and Introduction][1]          |               |
+| 2   | -     | Recorded | 2.1, 2.2, 2.3 | [Basic Abstractions][2]                    |               |
+| 2   | -     | Recorded |               | [Golang Tutorial][3]                       |               |
+| 3   | -     | Recorded | 2.4, 2.5      | [Basic Abstractions][4]                    |               |
+| 3   | -     | Recorded | 2.6, 2.7      | [Basic Abstractions][5]                    |               |
+| 3   | 28.01 | Live     |               | Summary of chapter 1 & 2                   | Lab 1 (24.01) |
+| 4   | -     | Recorded | 3             | [Reliable Broadcast][6]                    |               |
+| 4   | -     | Recorded |               | [gRPC Tutorial][7]                         |               |
+| 4   | -     | Recorded | 3             | [Reliable Broadcast][8]                    |               |
+| 5   | 11.02 | Live     |               | Summary of chapter 3 & gRPC                | Lab 2 (11.02) |
+| 5   | -     | Recorded |               | [Paxos][9]                                 |               |
+| 6   | -     | Recorded | 5             | [Consensus][10]                            |               |
+| 7   | 25.02 | Live     |               | Summary of chapter 5 & Paxos               | Lab 3 (25.02) |
+| 7   | -     | Recorded |               | [Lab 4 Introduction][11]                   |               |
+| 8   | -     | Recorded | 6             | [Consensus Variants][12]                   |               |
+| 8   | -     | Recorded | 4             | [Consensus Variants][13]                   |               |
+| 8   | -     | Recorded | 4             | [Consensus Variants & Shared Memory][14]   |               |
+| 9   | 04.03 | Live     |               | Summary of chapter 4 & 6                   |               |
+| 9   | -     | Recorded |               | [Consistent Global States][15]             |               |
+| 10  | 11.03 | Live     |               | Guest lecture by Hanish Gogada             |               |
+| 10  | -     | Recorded |               | [Kademlia][17] [Resources][16]             |               |
+| 11  | 18.03 | Live     |               | Consistent Global States review            | Lab 4 (21.03) |
+| 12  | -     | Recorded |               | [Lab 5 Introduction][18]                   |               |
+| 13  | 01.04 | Live     |               | Summary of Kademlia & Lab 5 intro          | Lab 4 (21.03) |
+| 13  | -     | Recorded |               | [Blockchain & Bitcoin][19]                 |               |
+| 14  | 08.04 | Live     |               | Tutorial on Gorums, gRPC & Lab 6 intro     | Lab 5 (11.04) |
+| 16  | 22.04 | Live     |               | Summary of Blockchain & Bitcoin            |               |
+| 17  | 29.04 | Live     |               | Last lecure before the lab exam            | Lab 6 (02.05) |
+| 19  | 13.05 | Live     |               | Guest lecture by Vahid Heidaripour Lakhani |               |
+| 20  | 20.05 | Live     |               | Last lecture before the written exam       |               |
 
 [1]: https://www.youtube.com/watch?v=pKFfy_T5e94
 [2]: https://www.youtube.com/watch?v=IDbbXseYaPc
